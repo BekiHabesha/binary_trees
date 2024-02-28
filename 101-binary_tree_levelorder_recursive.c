@@ -25,8 +25,6 @@
  * @next: points to the next node
  *
  */
-
-
 typedef struct node_s
 {
 	const binary_tree_t *node;
