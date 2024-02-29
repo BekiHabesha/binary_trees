@@ -97,7 +97,7 @@ void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int));
 void binary_tree_levelorder(const binary_tree_t *tree, void (*func)(int));
 
 
-/* For Measuring The Size Of A Binary Tree
+/* For Measuring The Size Of A Binary Tree */
 /* size Types, size_t Function Prototypes */
 
 size_t binary_tree_size(const binary_tree_t *tree);
